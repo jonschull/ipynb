@@ -1,2 +1,0 @@
-vpnotebook
-vpython
