@@ -4,7 +4,7 @@ learning
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jonschull/ipynb/master)
 
 To see this in action, 
-* click the MyBinder button
+* click the **launch binder** button
 * wait a minute
 * open VpythonMinimal
 * select Kernel/Restart & Run All
