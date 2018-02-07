@@ -5,8 +5,13 @@ learning
 
 To see this in action, 
 * click the **launch binder** button
-* wait a minute
+* wait a couple of minutes
 * open VpythonMinimal
 * select Kernel/Restart & Run All
+  * confirm 
+  * wait a couple of minutes
+  * ___voila!___
 
 Feedback welcome
+
+(The next step (to eliminate pip install vpython) would be to make my own docker, with vpython pre-installed.)
